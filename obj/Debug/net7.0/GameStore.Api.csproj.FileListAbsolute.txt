@@ -28,4 +28,5 @@ D:\.NET Projects\GameStore\GameStore.Api\bin\Debug\net7.0\MinimalApis.Extensions
 D:\.NET Projects\GameStore\GameStore.Api\bin\Debug\net7.0\MiniValidation.dll
 D:\.NET Projects\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.csproj.AssemblyReference.cache
 D:\.NET Projects\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
-D:\.NET Projects\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.csproj.CopyComplete
+D:\.NET Projects\GameStore\GameStore.Api\obj\Debug\net7.0\GameStore.Api.sourcelink.json
+D:\.NET Projects\GameStore\GameStore.Api\obj\Debug\net7.0\GameStor.5118A84D.Up2Date
